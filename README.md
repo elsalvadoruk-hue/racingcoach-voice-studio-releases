@@ -25,6 +25,6 @@ Windows x64와 NVIDIA CUDA GPU·호환 드라이버가 필요합니다. 기본 �
 
 ## 한국어 매뉴얼
 
-**[0.2.0 스크린샷 매뉴얼](https://github.com/elsalvadoruk-hue/racingcoach-voice-studio-releases/releases/tag/manual-v0.2.0-1)**에서 HTML 또는 ZIP을 받으세요. HTML은 브라우저에서 오프라인 검색·인쇄할 수 있습니다. [저장소 원본 문서](index.html)도 제공합니다. 앱 안의 다음 단계·오류 해결 안내도 함께 이용하세요.
+**[0.2.0 개선판 스크린샷 매뉴얼 · 개정 2](https://github.com/elsalvadoruk-hue/racingcoach-voice-studio-releases/releases/tag/manual-v0.2.0-1)**에서 최신 HTML 또는 ZIP을 받으세요. 기존 릴리스 첨부파일을 교체했습니다. **38개 장·번호 화면 50장**으로 공개 16.5MB 패치 설치, 다음 단계 이동, 진행률·남은 시간·완료 예상, 파일 선택 대기, 원인별 해결·재시도를 안내합니다. HTML은 브라우저에서 오프라인 검색·인쇄할 수 있습니다. [저장소 원본 문서](index.html)도 제공합니다. 34장의 따라하기 체크·메모를 TXT로 저장하며 테스트할 수 있습니다.
 
-매뉴얼 화면은 개인 자료가 없는 예제이며 GPU 상태·합성 응답은 모의입니다. 실제 모델 품질의 검증 자료가 아닙니다. [0.1.16 매뉴얼](https://github.com/elsalvadoruk-hue/racingcoach-voice-studio-releases/releases/tag/manual-v0.1.16-1)은 이전 버전 기록으로 유지합니다.
+매뉴얼 화면은 개인 자료가 없는 예제입니다. 최신 0.2.0 설명 화면 18장과 0.1.16 공통 참고 화면 32장을 구분했습니다. 데이터셋 CPU 분할·ZIP·잘못된 WAV 오류는 실제 응답이며, GPU 학습 상태·HF 목록·진행 수량/예상 시간·파일 선택 대기는 모의 예시로 표시했습니다. 실제 모델 품질의 검증 자료가 아닙니다. [0.1.16 매뉴얼](https://github.com/elsalvadoruk-hue/racingcoach-voice-studio-releases/releases/tag/manual-v0.1.16-1)은 이전 버전 기록으로 유지합니다.
